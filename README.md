@@ -4,7 +4,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/ellasstudy/)
 
 
-### Happy to meet you! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=EllaRekow.EllaRekow)
+### Happy to meet you! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=idammi.idammi)
 
 I am a computer science student with a passion for automation and backend development, and finding ways to improve the world with my talents and passions! 
 <img align="right" alt="GIF" src="https://github.com/ellarekow/ellarekow/blob/main/ellarekowgif" width="408" height="318" />
