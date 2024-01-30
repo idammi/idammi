@@ -12,7 +12,6 @@ I am a computer science student with a passion for automation and backend develo
 
 - Maintaining SocialGenius.net which is focused on helping brands reach their target audiences
 - I have some projects in the works I can't wait to share
-- Over the summer I am excited to work as a software engineer intern at NoFortune
 - Buying another plant :) 
 
 **Programming Experience** 
