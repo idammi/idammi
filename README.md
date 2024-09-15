@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a computer science student with a passion for automation and backend development, and finding ways to improve the world with my talents and passions! GIF
+I am a computer science student with a passion for automation and backend development, and finding ways to improve the world with my talents and passions!
 
 
 ## 🌐 Socials:
